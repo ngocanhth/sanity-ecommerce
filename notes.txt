@@ -1,0 +1,11 @@
+Enviroment: ubuntu: 20.04
+nodejs: v16.17.0
+
+yarn create next-app
+
+npm install --legacy-neer-deps
+
+npm install -g @sanity/cli
+sanity init --coupon javascriptmastery2022
+
+sanity init
